@@ -1,6 +1,6 @@
 # Todo List
 
-![image](https://github.com/BlueSky0203/alpha_camp/blob/main/todo_list/picture/todo.png)
+![image](https://github.com/BlueSky0203/todo_list/blob/main/picture/todo.png)
 
 ## Introduction
 Create own todo list
